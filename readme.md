@@ -30,7 +30,7 @@
 		- 날씨 창에서 이번에는 단순하게 데이터를 읽어서 가져오는 기능만 수행했지만 다음에는 사용자의 위치를 gps정보로 추출해서 
 		  기상청 오픈소스 api를 통해 사용자가 프로그램을 사용하는 위치에 따라 변경되는 날씨를 알 수 있는 기능을 만드는 방법이 좋을 것 같음.
 		- 달력창에서 해당 날짜에 저장한 내용의 제목을 간단하게락도 달력의 날짜 칸에 작게나마 보여주는 것도 좋을 것 같음.
-		
+		- 수정이나 삭제 시 사진도 텍스트처럼 즉각 반응이 나타나게해야함.
 <div>
 	<a href="https://www.youtube.com/watch?v=avKXoLSFSBE" target="_blank"><image src = "https://img.youtube.com/vi/avKXoLSFSBE/mqdefault.jpg"></a>	
 </div>
